@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lear-native",
-    "slug": "lear-native",
+    "name": "learn-react-navigation",
+    "slug": "learn-react-navigation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "scheme": "learn-react-navigation"
   }
 }
